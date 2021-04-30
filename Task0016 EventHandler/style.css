@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  clear: both;
+}
+
+.blue-background {
+  background-color: blue;
+  }
+  .red-background {
+  background-color: red;
+  }
